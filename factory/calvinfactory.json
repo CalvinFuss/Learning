@@ -1,0 +1,9 @@
+{
+	"name": "calvinfactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f53e1887-f0e3-476d-a84d-1fbbe256e06a",
+		"tenantId": "a7baae62-b96a-48f3-b49f-e6fc8f366d16"
+	}
+}
